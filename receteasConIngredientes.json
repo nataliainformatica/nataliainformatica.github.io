@@ -1,0 +1,245 @@
+{
+    "meals": [
+        {
+            "strMeal": "Salmón al horno con hinojo y tomates",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+            "idMeal": "52959",
+            "ingredientes": [
+                "Salmón - 1 filete",
+                "Hinojo - 1 bulbo",
+                "Tomates - 2",
+                "Aceite de oliva - 2 cucharadas",
+                "Ajo - 2 dientes",
+                "Limón - 1",
+                "Perejil - 1 ramo",
+                "Sal - al gusto",
+                "Pimienta - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Tacos de pescado con especias cajún",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+            "idMeal": "52819",
+            "ingredientes": [
+                "Filetes de pescado - 4 piezas",
+                "Especias cajún - 2 cucharadas",
+                "Tortillas de taco - 4",
+                "Lechuga - 1 taza",
+                "Tomate - 1",
+                "Cebolla - 1",
+                "Cilantro - 1 ramo",
+                "Limón - 1",
+                "Crema agria - 3 cucharadas"
+            ]
+        },
+        {
+            "strMeal": "Pescado escovitch",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+            "idMeal": "52944",
+            "ingredientes": [
+                "Filetes de pescado - 4 piezas",
+                "Cebolla - 1",
+                "Zanahoria - 1",
+                "Pimiento picante Scotch Bonnet - 1",
+                "Vinagre - 3 cucharadas",
+                "Azúcar - 1 cucharada",
+                "Sal - al gusto",
+                "Pimienta - al gusto",
+                "Tomillo - 1 rama"
+            ]
+        },
+        {
+            "strMeal": "Arroz con mariscos",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
+            "idMeal": "52938",
+            "ingredientes": [
+                "Arroz - 1 taza",
+                "Calamares - 200g",
+                "Mejillones - 200g",
+                "Gambas - 150g",
+                "Pimiento rojo - 1",
+                "Tomate triturado - 1/2 taza",
+                "Ajo - 2 dientes",
+                "Aceite de oliva - 3 cucharadas",
+                "Caldo de pescado - 2 tazas",
+                "Sal - al gusto",
+                "Pimienta - al gusto",
+                "Perejil - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Arroz a la cubana",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/usuqtp1511385394.jpg",
+            "idMeal": "52848",
+            "ingredientes": [
+                "Arroz - 1 taza",
+                "Plátano - 1",
+                "Huevo - 2",
+                "Tomate frito - 1 taza",
+                "Aceite de oliva - 2 cucharadas",
+                "Sal - al gusto",
+                "Pimienta - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Arroz con leche",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/4wvrrw1511789013.jpg",
+            "idMeal": "52923",
+            "ingredientes": [
+                "Arroz - 1 taza",
+                "Leche - 4 tazas",
+                "Azúcar - 1 taza",
+                "Canela - 1 rama",
+                "Cáscara de limón - 1 trozo",
+                "Sal - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Tarta de Santiago",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
+            "idMeal": "52939",
+            "ingredientes": [
+                "Almendras molidas - 250g",
+                "Huevos - 3",
+                "Azúcar - 200g",
+                "Harina - 100g",
+                "Levadura - 1/2 cucharadita",
+                "Limón (ralladura) - 1",
+                "Canela - 1/2 cucharadita",
+                "Azúcar glas - para decorar"
+            ]
+        },
+        {
+            "strMeal": "Flan de huevo",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+            "idMeal": "52847",
+            "ingredientes": [
+                "Leche - 1 litro",
+                "Huevos - 6",
+                "Azúcar - 200g",
+                "Caramelo - al gusto",
+                "Esencia de vainilla - 1 cucharadita"
+            ]
+        },
+        {
+            "strMeal": "Sopa de calabaza",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/rwuyqx1511783174.jpg",
+            "idMeal": "52956",
+            "ingredientes": [
+                "Calabaza - 500g",
+                "Cebolla - 1",
+                "Ajo - 2 dientes",
+                "Aceite de oliva - 2 cucharadas",
+                "Caldo de verduras - 4 tazas",
+                "Sal - al gusto",
+                "Pimienta - al gusto",
+                "Nata líquida - 100ml",
+                "Pimienta roja - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Paella valenciana",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/uj9s5v1511811112.jpg",
+            "idMeal": "53023",
+            "ingredientes": [
+                "Arroz - 1 taza",
+                "Pollo - 300g",
+                "Conejo - 200g",
+                "Judía verde - 100g",
+                "Tomate - 1",
+                "Pimiento rojo - 1",
+                "Guisantes - 50g",
+                "Aceite de oliva - 3 cucharadas",
+                "Caldo de pollo - 4 tazas",
+                "Azafrán - al gusto",
+                "Sal - al gusto",
+                "Pimienta - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Croquetas de jamón",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/ywsxtu1511813074.jpg",
+            "idMeal": "53015",
+            "ingredientes": [
+                "Jamón serrano - 200g",
+                "Leche - 500ml",
+                "Harina - 100g",
+                "Mantequilla - 50g",
+                "Huevos - 2",
+                "Pan rallado - al gusto",
+                "Sal - al gusto",
+                "Pimienta - al gusto",
+                "Aceite de oliva - para freír"
+            ]
+        },
+        {
+            "strMeal": "Tarta de manzana",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/pxyswu1511788379.jpg",
+            "idMeal": "53030",
+            "ingredientes": [
+                "Manzanas - 4",
+                "Masa quebrada - 1",
+                "Azúcar - 100g",
+                "Mantequilla - 50g",
+                "Huevos - 2",
+                "Harina - 50g",
+                "Leche - 100ml",
+                "Canela - 1 cucharadita",
+                "Limón (zumo) - 1"
+            ]
+        },
+        {
+            "strMeal": "Lentejas estofadas",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/7zbyty1511788489.jpg",
+            "idMeal": "52967",
+            "ingredientes": [
+                "Lentejas - 200g",
+                "Chorizo - 100g",
+                "Panceta - 50g",
+                "Cebolla - 1",
+                "Pimiento verde - 1",
+                "Ajo - 2 dientes",
+                "Laurel - 2 hojas",
+                "Aceite de oliva - 3 cucharadas",
+                "Caldo de verduras - 4 tazas",
+                "Sal - al gusto",
+                "Pimienta - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Gazpacho andaluz",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xqxxpw1511789512.jpg",
+            "idMeal": "52961",
+            "ingredientes": [
+                "Tomates - 4",
+                "Pepino - 1",
+                "Pimiento verde - 1",
+                "Cebolla - 1",
+                "Ajo - 1 diente",
+                "Pan - 1 rebanada",
+                "Aceite de oliva - 4 cucharadas",
+                "Vinagre - 2 cucharadas",
+                "Agua fría - 1 taza",
+                "Sal - al gusto",
+                "Pimienta - al gusto"
+            ]
+        },
+        {
+            "strMeal": "Tacos al pastor",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/3vpuws1511787242.jpg",
+            "idMeal": "53017",
+            "ingredientes": [
+                "Carne de cerdo - 300g",
+                "Piña - 1 rodaja",
+                "Tortillas de maíz - 4",
+                "Cebolla - 1",
+                "Cilantro - al gusto",
+                "Salsa roja - al gusto",
+                "Limón - 1",
+                "Aceite de oliva - 2 cucharadas",
+                "Sal - al gusto",
+                "Pimienta - al gusto"
+            ]
+        }
+    ]
+}
